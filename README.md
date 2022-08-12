@@ -20,6 +20,6 @@
 
 <a href="https://www.linkedin.com/in/hazal-g%C3%BCltekin-7b2607216/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 <a href="https://www.instagram.com/hazall.gltkn/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/344/instagram-new--v1.png" width="50" /></a>
-<a href="https://medium.com/@hazallgultekin" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/sf-black/64/000000/medium-logo.png" width="50" /></a>
+<a href="https://medium.com/@hazallgultekin" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/sf-ultralight/100/000000/medium-logo.png" width="50" /></a>
 <a href="https://twitter.com/Hazallgltkn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50" /></a>
 
