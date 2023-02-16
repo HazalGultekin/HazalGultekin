@@ -13,7 +13,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; HTML | CSS | JAVASCRIPT | RUBY
-- 🌐 &nbsp; RUBY ON RAILS | TAILWINDCSS | BOOTSTRAP
+- 🌐 &nbsp; REACTJS | RUBY ON RAILS | TAILWINDCSS  | BOOTSTRAP
 
 
 <h3> 🤝🏻 Connect with Me </h3>
