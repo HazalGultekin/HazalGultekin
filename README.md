@@ -23,6 +23,9 @@
 <a href="https://medium.com/@hazallgultekin" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/medium-new.png" width="50" /></a>
 <a href="https://twitter.com/Hazallgltkn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50" /></a>
 
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
@@ -36,8 +39,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/git/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  
+  
 </p>
+
+
+
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HazalGultekin" alt="HazalGultekin" /></p>
 
