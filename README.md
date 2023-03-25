@@ -17,11 +17,11 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<a href="https://www.linkedin.com/in/hazal-g%C3%BCltekin-7b2607216/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="50" /></a>
-<a href="https://www.hackerrank.com/hazallgultekin" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/h5EUmNCXhSH0/hackerrank-is-a-technology-company-that-focuses-on-competitive-programming" alt="hazallgultekin" width="50" /></a>
-<a href="https://www.instagram.com/hazall.gltkn/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/344/instagram-new--v1.png" width="50" /></a>
-<a href="https://medium.com/@hazallgultekin" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/medium-new.png" width="50" /></a>
-<a href="https://twitter.com/Hazallgltkn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50" /></a>
+<p align="left">
+<a href="https://linkedin.com/in/hazal-gültekin-7b2607216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazal-gültekin-7b2607216" height="30" width="40" /></a>
+<a href="https://medium.com/@hazallgultekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hazallgultekin" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hazallgultekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hazallgultekin" height="30" width="40" /></a>
+</p>
 
 
 
