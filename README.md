@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hazal</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-- 🌱 I’m current improving **Data Science H Concepts**
+- 🌱 I’m current improving **Data Science Concepts**
 
 - 📝 I regularly write articles on [https://medium.com/@hazallgultekin](https://medium.com/@hazallgultekin)
 
